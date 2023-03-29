@@ -7,7 +7,7 @@ import { useParams } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { getProducts } from "../actions/productActions";
 // import { Link } from "react-router-dom";
-import Pagination from "react-js-pagination";
+// import Pagination from "react-js-pagination";
 import Slider, { Range, createSliderWithTooltip } from "rc-slider";
 import "rc-slider/assets/index.css";
 import { toast } from 'react-toastify';
